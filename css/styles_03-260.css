@@ -1,0 +1,30 @@
+* {
+    font-family: Avenir Next, Arial, Verdana, sans-serif;
+    }
+    
+    body {
+    background-color: #FFC7CE;
+    }
+    
+    h1 {
+    font-family: Times, Times New Roman, Garamond, serif;
+    color: #642a20;
+    font-size: 125%;
+    }
+    i {
+    color:white;
+    }
+   
+    p {
+    font-size: 125%;
+    }
+    .copyRight{
+    font-size: 110%;
+    color: #117A65;
+    }
+    .greenNote {
+    color: green;
+    }
+    .redNote {
+    color: red;
+    }
